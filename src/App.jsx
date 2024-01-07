@@ -1,5 +1,9 @@
+import WordAnalytics from "./components/WordAnalytics";
+
 function App() {
-  return <></>;
+  return <>
+  <WordAnalytics/>
+  </>;
 }
 
 export default App;
